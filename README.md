@@ -1,2 +1,2 @@
-# generate-adversarial-text-byod
-bring-your-own-dataset and generate adversarial text examples
+# generate-adversarial-text
+generate adversarial text examples for your own dataset
